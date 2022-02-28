@@ -1,0 +1,12 @@
+.add-note {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* background-color: brown; */
+}
+
+.add-note .main-button {
+  height: 40px;
+  margin-top: 10px;
+  font-weight: 500;
+}
